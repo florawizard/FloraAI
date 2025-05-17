@@ -1,0 +1,12 @@
+{
+  "name": "@floraai/arweave-storage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": ["floraai", "arweave", "storage"],
+  "author": "FloraAI Contributors",
+  "license": "MIT",
+  "description": "Arweave-based storage adapter for FloraAI"
+}
